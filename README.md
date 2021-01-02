@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript Promise "reject" "resolve" Demo
 ===========================
+
+`reject/resolve`前面不需要return
 
 ```
 npm install
 npm run demo
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
